@@ -1,5 +1,5 @@
 Status = Enable
-BetaStatus = Enable
+BetaStatus = Disable
 
 Spear = true
 Cps = true
