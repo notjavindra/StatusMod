@@ -1,1 +1,18 @@
 Status = Enable
+BetaStatus = Enable
+
+if BetaStatus == Enable then
+functions for beta below : 
+
+Meanign so give me so ic an copy and paste it here evrything the mod has so like
+
+Spear = ture or false
+
+and evrything else all functions 
+
+
+If beta = false then
+sendmessage("This mod beta carpetmod+ full release is here go download it at https://modrinth.com/mod/carpetplus for the full release this mod will not work anymore only on the full release at https://modrinth.com/mod/carpetplus
+
+" (red)
+
