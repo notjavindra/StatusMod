@@ -1,18 +1,60 @@
 Status = Enable
 BetaStatus = Enable
 
-if BetaStatus == Enable then
-functions for beta below : 
-
-Meanign so give me so ic an copy and paste it here evrything the mod has so like
-
-Spear = ture or false
-
-and evrything else all functions 
-
-
-If beta = false then
-sendmessage("This mod beta carpetmod+ full release is here go download it at https://modrinth.com/mod/carpetplus for the full release this mod will not work anymore only on the full release at https://modrinth.com/mod/carpetplus
-
-" (red)
-
+Spear = true
+Cps = true
+Stop = true
+Drop = true
+Offhand = true
+Hit_detection = true
+CarpetHelp = true
+Gost = true
+Build = true
+NetherPortal = true
+BlockLook = true
+WindChargeMidair = true
+PathFind = true
+StunShield = true
+Walk = true
+Mine = true
+Collect = true
+Craft = true
+Smelt = true
+Enchant = true
+Anvil = true
+Sign = true
+WriteBook = true
+Skin = true
+Nick = true
+Freeze = true
+TeamProtection = true
+Invsee = true
+Pause = true
+Ping = true
+Voicechat = true
+ItemGive = true
+Mainhand = true
+Random = true
+Wonder = true
+Summon = true
+Range = true
+LoadChunks = true
+SeeChunks = true
+Inventory = true
+Look = true
+Coords = true
+Say = true
+BlockFind = true
+StructureLoad = true
+BotLeaveMessage = true
+BotsJoinBackAfterLeave = true
+GamePause = true
+BuildCreativeFallback = true
+ScoreboardHud = true
+Trim = true
+PlayerCrit = true
+MaceSmash = true
+FallingBlock = true
+FlyBlock = true
+DamageTaken = true
+Elytra = true
