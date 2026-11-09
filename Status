@@ -1,5 +1,5 @@
 Status = Enable
-BetaStatus = Enable
+BetaStatus = Disable
 
 Voice_Chat = Enable
 Anvil = Enable
